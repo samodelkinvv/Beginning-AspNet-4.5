@@ -11,7 +11,7 @@
     <div>
         Convert:&nbsp;
         <input type = "text" />
-        &nbsp;U.S. dollars to Euros.
+        &nbsp;U.S. dollars to Euros!
         <br />
         <input type = "submit" value = "OK" id="Convert" runat="server"/>
         </div>
